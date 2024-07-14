@@ -1,16 +1,21 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "#nn",
-    "nnn",
-    "n  "
+    "#s",
+    "cn"
   ],
   "key": {
     "#": {
       "item": "minecraft:book"
     },
+    "c": {
+      "item": "minecraft:cod"
+    },
+    "s": {
+      "item": "minecraft:salmon"
+    },
     "n": {
-      "item": "minecraft:netherite_ingot"
+      "item": "minecraft:nautilus_shell"
     }
   },
   "result": {
@@ -21,8 +26,8 @@
       "StoredEnchantments":
       [
         {
-          "id": "sharpness",
-          "lvl": 10
+          "id": "luck_of_the_sea",
+          "lvl": 3
         }
       ]
     }

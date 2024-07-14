@@ -2,15 +2,15 @@
   "type": "minecraft:crafting_shaped",
   "pattern": [
     "#nn",
-    "nnn",
-    "n  "
+    "nn",
+    "n"
   ],
   "key": {
     "#": {
       "item": "minecraft:book"
     },
     "n": {
-      "item": "minecraft:netherite_ingot"
+      "item": "minecraft:emerald"
     }
   },
   "result": {
@@ -21,8 +21,8 @@
       "StoredEnchantments":
       [
         {
-          "id": "sharpness",
-          "lvl": 10
+          "id": "looting",
+          "lvl": 5
         }
       ]
     }
